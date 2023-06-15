@@ -1,0 +1,6 @@
+#ancBookDetails {
+    -fx-background-color: linear-gradient(to right, rgba(171, 78, 4, 0.77), rgba(32, 67, 243, 0.62));
+}
+#ancItemDetails{
+    -fx-background-color: linear-gradient(to right, rgba(171, 78, 4, 0.77), rgba(32, 67, 243, 0.62));
+}

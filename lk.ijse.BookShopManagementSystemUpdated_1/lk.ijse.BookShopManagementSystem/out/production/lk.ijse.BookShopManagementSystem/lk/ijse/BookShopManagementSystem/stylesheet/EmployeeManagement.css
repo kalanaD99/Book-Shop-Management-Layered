@@ -1,0 +1,121 @@
+#ancEmployeeContext {
+    -fx-background-color: linear-gradient(to right, rgba(171, 78, 4, 0.77), rgba(32, 67, 243, 0.62));
+
+}
+
+#txtId {
+    -fx-background-color: transparent;
+    -fx-border-color: #3f3951;
+    -fx-border-width: 0px 0px .8px 0px;
+    -fx-font-size: 13px;
+}
+
+
+#txtId:focused {
+    -fx-border-color: linear-gradient(to bottom right, #2f3f89, #9231b5);
+    -fx-border-width: 0px 0px 1.5px 0px;
+}
+
+#txtName {
+    -fx-background-color: transparent;
+    -fx-border-color: #3f3951;
+    -fx-border-width: 0px 0px .8px 0px;
+    -fx-font-size: 13px;
+}
+
+
+#txtName:focused {
+    -fx-border-color: linear-gradient(to bottom right, #2f3f89, #9231b5);
+    -fx-border-width: 0px 0px 1.5px 0px;
+}
+
+#txtAddress {
+    -fx-background-color: transparent;
+    -fx-border-color: #3f3951;
+    -fx-border-width: 0px 0px .8px 0px;
+    -fx-font-size: 13px;
+}
+
+
+#txtAddress:focused {
+    -fx-border-color: linear-gradient(to bottom right, #2f3f89, #9231b5);
+    -fx-border-width: 0px 0px 1.5px 0px;
+}
+
+#txtContactNumber {
+    -fx-background-color: transparent;
+    -fx-border-color: #3f3951;
+    -fx-border-width: 0px 0px .8px 0px;
+    -fx-font-size: 13px;
+}
+
+
+#txtContactNumber:focused {
+    -fx-border-color: linear-gradient(to bottom right, #2f3f89, #9231b5);
+    -fx-border-width: 0px 0px 1.5px 0px;
+}
+
+#txtSalary {
+    -fx-background-color: transparent;
+    -fx-border-color: #3f3951;
+    -fx-border-width: 0px 0px .8px 0px;
+    -fx-font-size: 13px;
+}
+
+#txtSalary:focused {
+    -fx-border-color: linear-gradient(to bottom right, #2f3f89, #9231b5);
+    -fx-border-width: 0px 0px 1.5px 0px;
+}
+
+#txtNic {
+    -fx-background-color: transparent;
+    -fx-border-color: #3f3951;
+    -fx-border-width: 0px 0px .8px 0px;
+    -fx-font-size: 13px;
+}
+
+#txtNic:focused {
+    -fx-border-color: linear-gradient(to bottom right, #2f3f89, #9231b5);
+    -fx-border-width: 0px 0px 1.5px 0px;
+}
+
+#txtSalary:focused {
+    -fx-border-color: linear-gradient(to bottom right, #2f3f89, #9231b5);
+    -fx-border-width: 0px 0px 1.5px 0px;
+}
+
+#btnDelete {
+    -fx-background-color: rgba(213, 13, 13, 0.78);
+}
+
+#btnDelete:focused {
+    -fx-background-color: linear-gradient(to bottom right, rgba(192, 12, 35, 0.7), rgba(192, 12, 35, 0.47));
+
+}
+
+#btnAdd {
+    -fx-background-color: rgba(16, 107, 9, 0.58);
+}
+
+#btnAdd:focused {
+    -fx-background-color: linear-gradient(to bottom right, rgba(6, 210, 77, 0.43), rgba(21, 107, 9, 0.91));
+
+}
+
+#btnUpdate {
+    -fx-background-color: rgba(153, 75, 217, 0.7);
+}
+
+#btnUpdate:focused {
+    -fx-background-color: linear-gradient(to bottom right, rgba(138, 32, 199, 0.61), rgba(153, 75, 217, 0.84));
+
+}
+
+#btnClear {
+    -fx-background-color: rgba(32, 193, 199, 0.66);
+}
+
+#btnClear:focused {
+    -fx-background-color: linear-gradient(to bottom right, rgba(32, 193, 199, 0.43), rgba(9, 37, 107, 0.91));
+
+}
